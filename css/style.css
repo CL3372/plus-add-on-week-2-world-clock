@@ -1,4 +1,12 @@
-body {
+h1 {
   text-align: center;
-  font-size: large;
+  font-size: 48px;
+}
+
+footer {
+  text-align: center;
+}
+
+.href {
+  color: red;
 }
